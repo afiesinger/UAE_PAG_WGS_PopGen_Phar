@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "UAE_PAG_WGS_PopGen_Phar"
+abstract: "Persistence of the coral Porites harrisoni in the Persian/Arabian Gulf is underpinned by strong selection on few genomic loci"
+authors:
+  - family-names: "Fiesinger"
+    given-names: "Anna"
+    orcid: https://orcid.org/0000-0001-5543-1703
+repository-code: "https://github.com/afiesinger/UAE_PAG_WGS_PopGen_Phar"
+license: MIT
+version: "1.0.0"
+date-released: "2026-06-17"
+keywords:
+  - population genetics
+  - coral 
+  - genomic adaptation
+  - symbiodiniaceae
