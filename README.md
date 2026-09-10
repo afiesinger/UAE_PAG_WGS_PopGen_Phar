@@ -7,23 +7,27 @@ This repository contains all code to generate the data and figures presented in 
 
 ## Prerequisites
 
-## Software
-#### UAE_PAG_WGS_PopGen_Phar/preprocessing
+## Software & Data Availability
 
-#### UAE_PAG_WGS_PopGen_Phar/popgen
+### UAE_PAG_WGS_PopGen_Phar/preprocessing
+
+Raw whole genome sequencing data are available under the NCBI BioProject [PRJNA1191362](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1191362) nested under the Umbrella Project [PRJNA749006](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA749006)
 
 
+VCF files generated from raw sequencing data can be accessed at the Zenodo repository 
+> Fiesinger, A. & Voolstra, C.R. (2025) “Signatures of host genomic and algal symbiont selection in the coral *Porites harrisoni* from the Persian/Arabian Gulf.” Zenodo. https://doi.org/10.5281/ZENODO.17827487.
 
-#### UAE_PAG_WGS_PopGen_Phar/host_symbiont
+### UAE_PAG_WGS_PopGen_Phar/popgen
+
+
+### UAE_PAG_WGS_PopGen_Phar/host_symbiont
+
+ITS2 raw sequencing data are available under the NCBI BioProject XXX
+The ITS2 SymPortal run is accessible on [SymPortal](https://symportal.org/data_explorer/?Study=202307_afiesinger_UAE_GS)
+
 
 ### UAE_PAG_WGS_PopGen_Phar/sweeps
 
 
-## Data availability
-#### Raw whole genome sequencing data
-are available under the NCBI BioProject PRJNA1191362 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1191362), nested under the Umbrella Project PRJNA749006 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA749006). 
 
-The ITS2 SymPortal run is accessible on SymPortal at https://symportal.org/data_explorer/?Study=202307_afiesinger_UAE_GS. VCF files generated from raw sequencing data can be accessed at the Zenodo repository: 
-
-Fiesinger, A. and Voolstra, C.R. (2025) “Signatures of host genomic and algal symbiont selection in the coral *Porites harrisoni* from the Persian/Arabian Gulf.” Zenodo. https://doi.org/10.5281/ZENODO.17827487.
 
