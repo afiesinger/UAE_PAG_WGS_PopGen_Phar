@@ -7,6 +7,9 @@ This repository contains all code to generate the data and figures presented in 
 
 ## Prerequisites
 
+- shell/bash command line
+- conda / mamba for environment management
+
 ## Software & Data Availability
 
 ### UAE_PAG_WGS_PopGen_Phar/preprocessing
