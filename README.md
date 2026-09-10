@@ -28,7 +28,7 @@ Raw whole genome sequencing data are available under the NCBI BioProject [PRJNA1
 - VCFtools v0.1.16
 
 VCF files generated from raw sequencing data can be accessed at the Zenodo repository 
-> Fiesinger, A. & Voolstra, C.R. (2025) “Signatures of host genomic and algal symbiont selection in the coral *Porites harrisoni* from the Persian/Arabian Gulf.” *Zenodo*. https://doi.org/10.5281/ZENODO.17827487.
+> Fiesinger, A. & Voolstra, C.R. (2025) “Signatures of host genomic and algal symbiont selection in the coral *Porites harrisoni* from the Persian/Arabian Gulf.” *Zenodo*. ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17827487.svg)
 
 ### UAE_PAG_WGS_PopGen_Phar/popgen
 
