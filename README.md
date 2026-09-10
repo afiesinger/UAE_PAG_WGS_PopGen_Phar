@@ -1,5 +1,8 @@
 # Persistence of the coral *Porites harrisoni* in the Persian/Arabian Gulf is underpinned by strong selection on few genomic loci
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20732674.svg)]
+(https://doi.org/10.5281/zenodo.20732674)
+
 This repository contains all code to generate the data and figures presented in the following manuscript: tbd (submitted to Nat Comms, June 2026)
 
 ## Prerequisites
