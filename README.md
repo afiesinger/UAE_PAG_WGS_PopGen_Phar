@@ -22,7 +22,8 @@ VCF files generated from raw sequencing data can be accessed at the Zenodo repos
 
 ### UAE_PAG_WGS_PopGen_Phar/host_symbiont
 
-ITS2 raw sequencing data are available under the NCBI BioProject XXX
+ITS2 raw sequencing data are available under the NCBI BioProject [PRJNA1188806](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1188806)
+
 The ITS2 SymPortal run is accessible on [SymPortal](https://symportal.org/data_explorer/?Study=202307_afiesinger_UAE_GS)
 
 
