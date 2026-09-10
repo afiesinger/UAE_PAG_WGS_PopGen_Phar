@@ -27,6 +27,10 @@ Raw whole genome sequencing data:
 - Sambamba markdup v1.0.1
 - GATK HaplotypeCaller, CombineGVCFs, GenotypeGVCFs, SelectVariants, VariantFiltration
 - VCFtools v0.1.16
+- KING v2.2.7
+
+#### Output
+VCF files for downstream analyses. The below VCF files can be used to jump straight to 2., 3. and 4.
 
 VCF files generated from raw sequencing data can be accessed at the Zenodo repository: 
 > Fiesinger, A. & Voolstra, C.R. (2025) “Signatures of host genomic and algal symbiont selection in the coral *Porites harrisoni* from the Persian/Arabian Gulf.” *Zenodo*. ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17827487.svg)
@@ -35,7 +39,6 @@ VCF files generated from raw sequencing data can be accessed at the Zenodo repos
 
 <img src="https://skillicons.dev/icons?i=bash" height="28"/>
 
-- KING v2.2.7
 - PLINK v1.90
 - ADMIXTURE
 - CLUMPP
@@ -47,6 +50,10 @@ VCF files generated from raw sequencing data can be accessed at the Zenodo repos
 
 - pophelper v2.3.1
 - ggplot2 v3.4.2
+
+#### Output
+
+PCA, ADMIXTURE plots, Stairway Plot, population genetic differentiation metrics (e.g. *F*ST)
 
 ### 3. UAE_PAG_WGS_PopGen_Phar/host_symbiont
 
@@ -66,6 +73,10 @@ ITS2 SymPortal run (including all files to download):
 - vcfR v1.15.0
 - vegan v2.7.2
 
+#### Output
+
+Hierarchical clustering dendrogram for host-symbiont genotype genotype association, Mantel test results
+
 ### 4. UAE_PAG_WGS_PopGen_Phar/sweeps
 
 <img src="https://skillicons.dev/icons?i=bash" height="28"/>
@@ -77,3 +88,7 @@ ITS2 SymPortal run (including all files to download):
 - SnpSift v5.3
 - PopLDDecay v3.40
 - pixy 2.0.0
+
+#### Output
+
+Genome-wide *F*ST and haplotype statistics (XP-EHH, iHS, nSL and iHH12), SNP effect results, LD decay plot, nucleotide diversity, allele frequency spectrum results
